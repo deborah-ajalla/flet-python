@@ -97,10 +97,7 @@ def main (page: ft.Page):      # -> el parámetro es la página que sirve d vent
                       alignment = ft.MainAxisAlignment.SPACE_BETWEEN), grid
              )
                 
-            
-
-
-             
+               
     
     # -- CREA NOTAS --
     # note = create_note("Nota Mejorada")
